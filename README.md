@@ -9,7 +9,7 @@ Gems dependecies:
 
     > bundle install
 
-Rub example:
+Run example:
 
     > ruby cptn_ruby.rb
 
