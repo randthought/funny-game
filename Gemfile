@@ -4,4 +4,6 @@ ruby '2.2.4'
 
 gem 'gosu'
 gem 'gosu_tiled'
-gem 'gosu-examples'
+gem 'chipmunk'
+gem 'rmagick'
+gem 'opengl'
