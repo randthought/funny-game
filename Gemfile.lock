@@ -1,7 +1,24 @@
 GEM
+  remote: https://rubygems.org/
   specs:
+    gosu (0.10.7)
+    gosu-examples (1.0.3)
+      gosu (>= 0.9.0)
+    gosu_tiled (0.1.1)
+      gosu
+      json
+    json (2.0.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  gosu
+  gosu-examples
+  gosu_tiled
+
+RUBY VERSION
+   ruby 2.2.4p230
+
+BUNDLED WITH
+   1.12.5
