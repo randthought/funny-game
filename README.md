@@ -1,5 +1,4 @@
-# mehrad-of-persia
-Prince of Persia: Mehrad frontend invasion
+# funny-game
 
 System dependencies:
 
